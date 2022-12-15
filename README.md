@@ -1,6 +1,6 @@
 # +Saúde
 
-Projeto desenvolvido enquanto estava cursando Informatica para Internet na Etec, entre o período de 2017 a 2019.
+Projeto desenvolvido enquanto estava cursando Informatica para Internet na Etec, em 2019.
 <center>
   
   ![image](https://user-images.githubusercontent.com/105740700/169308674-9c3c8904-69e7-4914-a2e2-d321127b6647.png)
